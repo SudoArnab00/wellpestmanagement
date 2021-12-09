@@ -1,2 +1,0 @@
-# wellpestmanagement
-Pest control website
